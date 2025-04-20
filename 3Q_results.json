@@ -1,0 +1,22 @@
+[
+  {
+    "skills": "python",
+    "demand_count": "806"
+  },
+  {
+    "skills": "sql",
+    "demand_count": "664"
+  },
+  {
+    "skills": "azure",
+    "demand_count": "292"
+  },
+  {
+    "skills": "r",
+    "demand_count": "274"
+  },
+  {
+    "skills": "aws",
+    "demand_count": "232"
+  }
+]
